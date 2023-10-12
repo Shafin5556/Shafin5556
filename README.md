@@ -5,7 +5,7 @@
 </head>
 <body>
     <h2 align="left" class="big-text">Shafin Ahmed</h2>
-    <img align="right" height="150" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"  />
+    <img align="right" height="150" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"  />
     
 [![](https://visitcount.itsvg.in/api?id=Shafin5556&icon=9&color=4)](https://visitcount.itsvg.in)    
 
