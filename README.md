@@ -5,7 +5,12 @@
 </head>
 <body>
     <h2 align="left" class="big-text">Shafin Ahmed</h2>
-    <div align="left">
+ <p>
+        I am Involvement in WPF based windows Appliaction Development and Deployment. Strong knowledge of C#, ASP.NET, MVC, WebAPI.
+        Expertise in Visual Studio.Net environment and Microsoft.Net Framework 2.0/3.0/3.5/4.0. Focused to constructing software systems by building OOAD that abstract key aspects of the target system.
+</p>
+    
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
