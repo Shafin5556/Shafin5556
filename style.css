@@ -1,3 +1,9 @@
-.big-text {
-    font-size: 94px; /* You can adjust the size as needed */
+/* style.css */
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px;
 }
