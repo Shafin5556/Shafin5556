@@ -1,8 +1,8 @@
+/* styles.css */
 .big-text {
-    font-size: 98px; /* You can adjust the size as needed */
+    font-size: 24px;
 }
-.text-title {
- font-weight: 900;
- font-size: 1.2em;
- line-height: 1.5;
+
+.bold-text {
+    font-weight: bold;
 }
