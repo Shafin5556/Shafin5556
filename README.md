@@ -8,6 +8,14 @@
     <img align="right" height="150" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"  />
     
 [![](https://visitcount.itsvg.in/api?id=Shafin5556&icon=9&color=4)](https://visitcount.itsvg.in)    
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin5556&theme=radical&hide_border=false)<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=Shafin5556&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin5556&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+ 
 <p>
         I am Involvement in WPF based windows Appliaction Development and Deployment. Strong knowledge of C#, ASP.NET, MVC, WebAPI.
         Expertise in Visual Studio.Net environment and Microsoft.Net Framework 2.0/3.0/3.5/4.0. Focused to constructing software systems by building OOAD that abstract key aspects of the target system.
@@ -93,12 +101,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
- ##  
-![](https://github-profile-trophy.vercel.app/?username=Shafin5556&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
- ##  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin5556&theme=radical&hide_border=false)<br/>
- ##  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin5556&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
