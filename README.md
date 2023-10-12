@@ -5,7 +5,7 @@
 </head>
 <body>
     <h2 align="left" class="big-text">Shafin Ahmed</h2>
- <p>
+ <p class="big-text bold-text">
         I am Involvement in WPF based windows Appliaction Development and Deployment. Strong knowledge of C#, ASP.NET, MVC, WebAPI.
         Expertise in Visual Studio.Net environment and Microsoft.Net Framework 2.0/3.0/3.5/4.0. Focused to constructing software systems by building OOAD that abstract key aspects of the target system.
 </p>
