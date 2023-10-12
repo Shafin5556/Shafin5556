@@ -5,14 +5,16 @@
 </head>
 <body>
     <h2 align="left" class="big-text">Shafin Ahmed</h2>
-    <p">
+    <img align="right" height="150" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"  />
+    
+[![](https://visitcount.itsvg.in/api?id=Shafin5556&icon=9&color=4)](https://visitcount.itsvg.in)    
+<p>
         I am Involvement in WPF based windows Appliaction Development and Deployment. Strong knowledge of C#, ASP.NET, MVC, WebAPI.
         Expertise in Visual Studio.Net environment and Microsoft.Net Framework 2.0/3.0/3.5/4.0. Focused to constructing software systems by building OOAD that abstract key aspects of the target system.
     </p>
 
 
-
-    
+ ##    
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -91,6 +93,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
+ ##  
+![](https://github-profile-trophy.vercel.app/?username=Shafin5556&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+ ##  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin5556&theme=radical&hide_border=false)<br/>
+ ##  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin5556&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
+
+
+## Connections    
 <div align="left">
   <a href="https://www.instagram.com/shafin_____ahmed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -114,6 +130,7 @@
     <img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
   </a>
 </div>
+
 
 </body>
 </html>
