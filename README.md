@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h2 align="left" class="big-text">Shafin Ahmed</h2>
+    <h2 align="center" class="big-text">Shafin Ahmed</h2>
     <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="artifact.gif" />
     
 [![](https://visitcount.itsvg.in/api?id=Shafin5556&icon=9&color=4)](https://visitcount.itsvg.in)    
