@@ -6,7 +6,7 @@
 <body>
     <h2 align="center" class="big-text">Shafin Ahmed</h2>
 <!--     <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="artifact.gif" /> -->
-<p>I am Involvement in WPF based windows Appliaction Development and Deployment. Strong knowledge of C#, ASP.NET, MVC, WebAPI. Expertise in Visual Studio.Net environment and Microsoft.Net Framework 2.0/3.0/3.5/4.0. Focused to constructing software systems by building OOAD that abstract key aspects of the target system.</p>
+<p>I am Involved in applying my expertise in C#, Python, HTML, CSS, JavaScript, Node js, to solve real-world problems. Eager to contribute to projects and grow as a software developer in a dynamic environment.</p>
     
 [![](https://visitcount.itsvg.in/api?id=Shafin5556&icon=9&color=4)](https://visitcount.itsvg.in)    
 
