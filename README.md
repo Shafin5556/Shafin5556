@@ -6,7 +6,8 @@
 <body>
     <h2 align="center" class="big-text">Shafin Ahmed</h2>
 <!--     <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="artifact.gif" /> -->
-<p>I am Involved in applying my expertise in C#, Python, HTML, CSS, JavaScript, Node js, to solve real-world problems. Eager to contribute to projects and grow as a software developer in a dynamic environment.</p>
+<p>Aspiring Software Engineer with practical experience in backend development and system automation. Contributed to large-scale projects using Laravel, Python, and JavaScript. Passionate about solving real- world problems through scalable and efficient solutions.
+.</p>
     
 [![](https://visitcount.itsvg.in/api?id=Shafin5556&icon=9&color=4)](https://visitcount.itsvg.in)    
 
