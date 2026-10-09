@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a24,50:1a3d34,100:9a5b2f&height=180&section=header&text=Shafin%20Ahmed&fontSize=46&fontColor=f4efe7&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Full-Stack&descAlignY=55&descSize=16" width="100%" alt="Shafin Ahmed header" />
 
+<img src="./assets/logos/profile.png" width="120" height="120" alt="Shafin Ahmed" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3200&pause=900&color=D4A574&center=true&vCenter=true&width=740&height=46&lines=Building+production-grade+software;Backend+%26+Full-Stack+Engineer;Laravel+%7C+Python+%7C+Node.js+%7C+Data;Scalable+systems+for+real-world+impact)](https://github.com/Shafin5556)
 
 <p>
-  <a href="https://shafin5556.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f2a24?style=for-the-badge&logo=vercel&logoColor=d4a574" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/shafin5556"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shafinahmed5556@gmail.com"><img src="https://img.shields.io/badge/Email-9a5b2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Shafin5556?tab=achievements"><img src="https://img.shields.io/badge/Achievements-111827?style=for-the-badge&logo=github&logoColor=d4a574" alt="Achievements" /></a>
@@ -27,63 +28,100 @@ Software Engineer with experience in **backend development**, **system automatio
 
 ---
 
-### Experience highlights
-
-| Role | Organization |
-| --- | --- |
-| **Software Engineer** | [CSE-TECH-DIU](https://github.com/CSE-TECH-DIU) · CSETech |
-| **Full Stack Developer** | [fawzbiz-enterprises](https://github.com/fawzbiz-enterprises) |
-| **Full Stack Developer** | Office of the Students' Affairs, DIU |
-
----
-
-### Featured work
-
-<a href="https://efamilycourt.judiciary.gov.bd/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafin5556&repo=Shafin5556&theme=default&bg_color=0f2a24&title_color=d4a574&icon_color=d4a574&text_color=e8e4dc&hide_border=true" alt="Profile" width="0" />
-</a>
+### Experience
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**E-Family Court**  
-National e-Judiciary platform for the Ministry of Law, Justice and Parliamentary Affairs.  
-[Live](https://efamilycourt.judiciary.gov.bd/)
-
+<td width="18%" align="center" valign="middle">
+  <img src="./assets/logos/logo-csetech.png" width="88" alt="CSETech" />
 </td>
-<td width="50%" valign="top">
+<td valign="middle">
 
-**Student Hub**  
-DIU student management ecosystem — orientation, clubs, payments, enrollment sync.  
-[Live](https://studentshub.daffodilvarsity.edu.bd/)
+**Software Engineer** · CSETech  
+Center for Software Development & Emerging Tech · [CSE-TECH-DIU](https://github.com/CSE-TECH-DIU)  
+Nov 2025 – Present
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="18%" align="center" valign="middle">
+  <img src="./assets/logos/logo-fawz.png" width="96" alt="Fawz Biz Enterprises" />
+</td>
+<td valign="middle">
 
-**Portfolio (Hugo)**  
-Professional personal site hosted on GitHub Pages.  
-[shafin5556.github.io](https://shafin5556.github.io/)
+**Full Stack Developer** · Fawz Biz Enterprises  
+[fawzbiz-enterprises](https://github.com/fawzbiz-enterprises)  
+Jul 2025 – Present
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="18%" align="center" valign="middle">
+  <img src="./assets/logos/logo-osa.png" width="88" alt="Office of the Students' Affairs" />
+</td>
+<td valign="middle">
 
-**Organizations**  
-Public memberships across product & engineering orgs.  
-[View orgs →](https://github.com/Shafin5556)
+**Full Stack Developer** · Office of the Students' Affairs, DIU  
+Jun 2024 – Jun 2026
 
 </td>
 </tr>
 </table>
 
+---
+
+### Featured projects
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="./assets/logos/logo-efamily-court.png" width="110" alt="E-Family Court" /><br/><br/>
+  <b>E-Family Court</b><br/>
+  National e-Judiciary platform<br/>
+  Ministry of Law, Justice and Parliamentary Affairs<br/>
+  <a href="https://efamilycourt.judiciary.gov.bd/">Live project</a>
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="./assets/logos/logo-student-hub.png" width="110" alt="Student Hub" /><br/><br/>
+  <b>Student Hub</b><br/>
+  Official DIU student management platform<br/>
+  Orientation · Clubs · Payments · Enrollment sync<br/>
+  <a href="https://studentshub.daffodilvarsity.edu.bd/">Live project</a>
+</td>
+</tr>
+</table>
+
+---
+
+### Education
+
+<table>
+<tr>
+<td width="18%" align="center" valign="middle">
+  <img src="./assets/logos/logo-diu.png" width="88" alt="Daffodil International University" />
+</td>
+<td valign="middle">
+
+**M.Sc. in CSE (Major in Data Science)**  
+Daffodil International University · 1 May 2026 – 30 Apr 2028
+
+**BS in Computer Science and Engineering**  
+Daffodil International University · Aug 2021 – Aug 2025 · CGPA 3.30
+
+</td>
+</tr>
+</table>
+
+---
+
+### Organizations
+
 <p align="center">
-  <a href="https://github.com/Shafin-Organization"><img src="https://img.shields.io/badge/Shafin--Organization-0f2a24?style=flat-square" alt="Shafin-Organization" /></a>
-  <a href="https://github.com/webnest-app"><img src="https://img.shields.io/badge/webnest--app-1a3d34?style=flat-square" alt="webnest-app" /></a>
-  <a href="https://github.com/fawzbiz-enterprises"><img src="https://img.shields.io/badge/fawzbiz--enterprises-9a5b2f?style=flat-square" alt="fawzbiz" /></a>
-  <a href="https://github.com/CSE-TECH-DIU"><img src="https://img.shields.io/badge/CSE--TECH--DIU-0f2a24?style=flat-square" alt="CSE-TECH" /></a>
-  <a href="https://github.com/RemitGet"><img src="https://img.shields.io/badge/RemitGet-1a3d34?style=flat-square" alt="RemitGet" /></a>
+  <a href="https://github.com/Shafin-Organization"><img src="https://img.shields.io/badge/Shafin--Organization-0f2a24?style=for-the-badge" alt="Shafin-Organization" /></a>
+  <a href="https://github.com/webnest-app"><img src="https://img.shields.io/badge/webnest--app-1a3d34?style=for-the-badge" alt="webnest-app" /></a>
+  <a href="https://github.com/fawzbiz-enterprises"><img src="https://img.shields.io/badge/fawzbiz--enterprises-9a5b2f?style=for-the-badge" alt="fawzbiz" /></a>
+  <a href="https://github.com/CSE-TECH-DIU"><img src="https://img.shields.io/badge/CSE--TECH--DIU-0f2a24?style=for-the-badge" alt="CSE-TECH" /></a>
+  <a href="https://github.com/RemitGet"><img src="https://img.shields.io/badge/RemitGet-1a3d34?style=for-the-badge" alt="RemitGet" /></a>
 </p>
 
 ---
@@ -103,7 +141,6 @@ Public memberships across product & engineering orgs.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo" />
 </p>
 
 ---
@@ -154,7 +191,6 @@ Unlocking badges through real pull requests, collaboration, and consistent shipp
   Let’s build something meaningful.<br/><br/>
   <a href="mailto:shafinahmed5556@gmail.com">shafinahmed5556@gmail.com</a> ·
   <a href="https://linkedin.com/in/shafin5556">LinkedIn</a> ·
-  <a href="https://shafin5556.github.io/">Portfolio</a> ·
   <a href="https://github.com/Shafin5556">GitHub</a>
 </p>
 
