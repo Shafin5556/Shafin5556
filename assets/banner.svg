@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Shafin Ahmed  Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1f1b"/>
+      <stop offset="55%" stop-color="#123029"/>
+      <stop offset="100%" stop-color="#7a4520"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4a574" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d4a574" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#d4a574" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="waveFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f2a24" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0f2a24" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- soft ambient orbs -->
+  <circle cx="980" cy="70" r="90" fill="#d4a574" opacity="0.08">
+    <animate attributeName="r" values="80;100;80" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="190" r="70" fill="#9a5b2f" opacity="0.10">
+    <animate attributeName="cy" values="180;200;180" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- accent line -->
+  <rect x="120" y="78" width="180" height="2" rx="1" fill="url(#glow)">
+    <animate attributeName="width" values="120;220;120" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="120" y="130" fill="#f4efe7" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="600" letter-spacing="-1.5">
+    Shafin Ahmed
+  </text>
+  <text x="120" y="168" fill="#d4a574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="2">
+    SOFTWARE ENGINEER
+  </text>
+  <text x="120" y="198" fill="#b7c4be" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">
+    Backend · Full-Stack · Scalable Systems · Dhaka
+  </text>
+
+  <!-- animated wave footer -->
+  <path fill="url(#waveFill)" opacity="0.9">
+    <animate attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+        M0,230 C200,210 400,250 600,230 C800,210 1000,250 1200,230 L1200,280 L0,280 Z;
+        M0,235 C200,255 400,215 600,235 C800,255 1000,215 1200,235 L1200,280 L0,280 Z;
+        M0,230 C200,210 400,250 600,230 C800,210 1000,250 1200,230 L1200,280 L0,280 Z
+      "/>
+  </path>
+  <path fill="#0f2a24" opacity="0.55">
+    <animate attributeName="d"
+      dur="10s"
+      repeatCount="indefinite"
+      values="
+        M0,245 C220,260 420,230 620,248 C820,266 1020,230 1200,248 L1200,280 L0,280 Z;
+        M0,250 C220,230 420,260 620,242 C820,224 1020,260 1200,242 L1200,280 L0,280 Z;
+        M0,245 C220,260 420,230 620,248 C820,266 1020,230 1200,248 L1200,280 L0,280 Z
+      "/>
+  </path>
+</svg>
