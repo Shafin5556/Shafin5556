@@ -131,11 +131,7 @@ Public memberships across product & engineering orgs.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shafin5556/Shafin5556/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shafin5556/Shafin5556/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Shafin5556/Shafin5556/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="Shafin Ahmed contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shafin5556&bg_color=0f2a24&color=d4a574&line=9a5b2f&point=e8e4dc&area=true&hide_border=true" />
 
 </div>
 
