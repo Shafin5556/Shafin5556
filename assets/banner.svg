@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1f1b"/>
-      <stop offset="55%" stop-color="#123029"/>
-      <stop offset="100%" stop-color="#7a4520"/>
+      <stop offset="0%" stop-color="#1a080a"/>
+      <stop offset="55%" stop-color="#3a0e14"/>
+      <stop offset="100%" stop-color="#8c1c22"/>
     </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#d4a574" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#d4a574" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#d4a574" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff5252" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff5252" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ff5252" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="280" fill="url(#bg)"/>
-  <circle cx="980" cy="70" r="90" fill="#d4a574" opacity="0.08"/>
-  <circle cx="160" cy="190" r="70" fill="#9a5b2f" opacity="0.10"/>
+  <circle cx="980" cy="70" r="90" fill="#e53935" opacity="0.12"/>
+  <circle cx="160" cy="190" r="70" fill="#b71c1c" opacity="0.14"/>
   <rect x="120" y="78" width="180" height="2" rx="1" fill="url(#glow)"/>
-  <text x="120" y="130" fill="#f4efe7" font-family="Georgia, Times New Roman, serif" font-size="54" font-weight="600">Shafin Ahmed</text>
-  <text x="120" y="168" fill="#d4a574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="2">SOFTWARE ENGINEER</text>
-  <text x="120" y="198" fill="#b7c4be" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Backend · Full-Stack · Scalable Systems · Dhaka</text>
-  <path d="M0,232 C200,212 400,252 600,236 C800,216 1000,256 1200,236 L1200,280 L0,280 Z" fill="#0f2a24" opacity="0.55"/>
-  <path d="M0,248 C220,266 420,230 620,250 C820,270 1020,234 1200,250 L1200,280 L0,280 Z" fill="#0f2a24" opacity="0.75"/>
+  <text x="120" y="130" fill="#fff5f5" font-family="Georgia, Times New Roman, serif" font-size="54" font-weight="600">Shafin Ahmed</text>
+  <text x="120" y="168" fill="#ff8a80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="2">SOFTWARE ENGINEER</text>
+  <text x="120" y="198" fill="#c9b4b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Backend · Full-Stack · Scalable Systems · Dhaka</text>
+  <path d="M0,232 C200,212 400,252 600,236 C800,216 1000,256 1200,236 L1200,280 L0,280 Z" fill="#5a1016" opacity="0.65"/>
+  <path d="M0,248 C220,266 420,230 620,250 C820,270 1020,234 1200,250 L1200,280 L0,280 Z" fill="#461216" opacity="0.8"/>
 </svg>
