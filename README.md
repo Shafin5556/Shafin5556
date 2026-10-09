@@ -1,6 +1,6 @@
 <!-- Elegant profile — self-hosted banner for reliable rendering -->
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Shafin Ahmed — Software Engineer" />
+  <img src="https://raw.githubusercontent.com/Shafin5556/Shafin5556/main/assets/banner.png" width="100%" alt="Shafin Ahmed — Software Engineer" />
   <br/>
 
   <a href="https://github.com/Shafin5556">
