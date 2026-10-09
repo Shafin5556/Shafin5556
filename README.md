@@ -151,18 +151,20 @@ Software Engineer focused on **backend systems**, **automation**, and **large-sc
 
 <br/>
 
-### Highlights
+### Profile cards
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shafin5556&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=10&margin-h=8" width="100%" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shafin5556&theme=github_dark" height="180" alt="Stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shafin5556&theme=github_dark" height="180" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shafin5556&theme=github_dark" height="180" alt="Most commit language" />
 </div>
 
 <br/>
 
-### Activity
+### Contribution calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafin5556&bg_color=0b1f1b&color=e8e4dc&line=d4a574&point=9a5b2f&area=true&area_color=9a5b2f&hide_border=true&custom_title=Contribution%20Activity&radius=12&height=320" width="100%" alt="Contribution activity" />
+  <img src="https://ghchart.rshah.org/d4a574/Shafin5556" width="100%" alt="GitHub contribution calendar" />
 </div>
 
 <br/>
