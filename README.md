@@ -127,13 +127,26 @@ Public memberships across product & engineering orgs.
 
 ---
 
+### Contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shafin5556/Shafin5556/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shafin5556/Shafin5556/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Shafin5556/Shafin5556/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ### Achievements
 
 <div align="center">
 
 [![Achievements](https://img.shields.io/badge/View%20GitHub%20Achievements-0f2a24?style=for-the-badge&logo=github&logoColor=d4a574)](https://github.com/Shafin5556?tab=achievements)
 
-Actively unlocking GitHub achievements through real collaboration, pull requests, and open-source practice.
+Unlocking badges through real pull requests, collaboration, and consistent shipping —  
+[see the full achievements board](https://github.com/Shafin5556?tab=achievements).
 
 </div>
 
