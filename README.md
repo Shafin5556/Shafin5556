@@ -2,8 +2,6 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Shafin Ahmed — Software Engineer" />
   <br/>
-  <img src="./assets/logos/profile.png" width="118" height="118" alt="Shafin Ahmed" />
-  <br/><br/>
 
   <a href="https://github.com/Shafin5556">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D4A574&center=true&vCenter=true&width=720&height=40&lines=Building+production-grade+software;Backend+%26+Full-Stack+Engineer;Laravel+%7C+Python+%7C+Node.js;Secure+%C2%B7+Scalable+%C2%B7+Reliable" alt="Typing animation" />
@@ -86,7 +84,7 @@ Software Engineer focused on **backend systems**, **automation**, and **large-sc
       <br/><br/>
       <b>Student Hub</b><br/>
       <sub>Official DIU Student Platform</sub><br/>
-      Orientation · Clubs · Payments · Enrollment sync<br/><br/>
+      Orientation · Clubs · Event management · Enrollment sync<br/><br/>
       <a href="https://studentshub.daffodilvarsity.edu.bd/"><img src="https://img.shields.io/badge/Live-0f2a24?style=flat-square" alt="Live" /></a>
     </td>
   </tr>
